@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Fullstack Development (Node.js, React, MySQL)**
 - 🛠 I love building web apps and clean UIs
 - 🔭 Currently working on: [Klinik Bersama Plus](https://github.com/fjrsdqq/klinik-bersama-plus)
-- 📫 How to reach me: **fajarsidik@email.com**
+- 📫 How to reach me: **fajarsidik9131@gmail.com**
 
 ---
 
@@ -59,7 +59,7 @@
 
 ### 📫 Contact Me
 
-- Email: **fajarsidik@email.com**
+- Email: **fajarsidik09131@gmail.com**
 - LinkedIn: [linkedin.com/in/fajarsidik](https://linkedin.com/in/fajarsidik)
 - GitHub: [fjrsdqq](https://github.com/fjrsdqq)
 
