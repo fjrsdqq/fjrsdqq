@@ -53,7 +53,7 @@
 ### 📫 Contact Me
 
 - Email: **fajarsidik09131@gmail.com**
-- LinkedIn: [linkedin.com/in/fajarsidik]((https://www.linkedin.com/in/fajar-sidik-141b46321/))
+- LinkedIn: [linkedin.com/in/fajarsidik](https://www.linkedin.com/in/fajar-sidik-141b46321/)
 - GitHub: [fjrsdqq](https://github.com/fjrsdqq)
 
 ---
