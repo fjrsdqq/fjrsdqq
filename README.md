@@ -32,7 +32,7 @@
 
 | Project | Deskripsi | Tech Stack | Link |
 |--------|-----------|------------|------|
-| 🩺 Klinik Bersama Plus | Web dashboard klinik dengan login, CRUD, grafik dan profil user | Node.js, EJS, MySQL, Chart.js | [Repo](https://github.com/fjrsdqq/klinik-bersama-plus) |
+| 🩺 Klinik Bersama Plus | Web dashboard klinik dengan login, CRUD, grafik dan profil user | Node.js, EJS, MySQL, Chart.js | [Repo]([https://github.com/fjrsdqq/klinik-bersama-plus](https://github.com/fjrsdqq/Klinik-Bersama-Plus-Dashboard)) |
 | 💼 Portfolio Website | Website portfolio pribadi dengan animasi UI | HTML, CSS, JavaScript | [Repo](https://github.com/fjrsdqq/portfolio) |
 | ✅ Todo App | Aplikasi todo list simple dan responsive | React.js, TailwindCSS | [Repo](https://github.com/fjrsdqq/todo-app) |
 
@@ -60,7 +60,7 @@
 ### 📫 Contact Me
 
 - Email: **fajarsidik09131@gmail.com**
-- LinkedIn: [linkedin.com/in/fajarsidik](https://linkedin.com/in/fajarsidik)
+- LinkedIn: [linkedin.com/in/fajarsidik]((https://www.linkedin.com/in/fajar-sidik-141b46321/))
 - GitHub: [fjrsdqq](https://github.com/fjrsdqq)
 
 ---
