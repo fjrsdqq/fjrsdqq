@@ -32,7 +32,7 @@
 
 | Project | Deskripsi | Tech Stack | Link |
 |--------|-----------|------------|------|
-| 🩺 Klinik Bersama Plus | Web dashboard klinik dengan login, CRUD, grafik dan profil user | Node.js, EJS, MySQL, Chart.js | [Repo]([https://github.com/fjrsdqq/klinik-bersama-plus](https://github.com/fjrsdqq/Klinik-Bersama-Plus-Dashboard)) |
+| 🩺 Klinik Bersama Plus | Web dashboard klinik dengan login, CRUD, grafik dan profil user | Node.js, EJS, MySQL, Chart.js | [Repo](https://github.com/fjrsdqq/Klinik-Bersama-Plus-Dashboard) |
 | 💼 Portfolio Website | Website portfolio pribadi dengan animasi UI | HTML, CSS, JavaScript | [Repo](https://github.com/fjrsdqq/portfolio) |
 | ✅ Todo App | Aplikasi todo list simple dan responsive | React.js, TailwindCSS | [Repo](https://github.com/fjrsdqq/todo-app) |
 
