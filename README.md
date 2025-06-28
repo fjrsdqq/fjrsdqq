@@ -50,13 +50,6 @@
 
 ---
 
-### 🏆 GitHub Trophy (Optional)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fjrsdqq&theme=onedark" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - Email: **fajarsidik09131@gmail.com**
