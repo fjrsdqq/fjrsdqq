@@ -11,8 +11,8 @@
 
 ### 🧠 About Me
 
-- 🌱 I'm currently learning **Fullstack Development (Node.js, React, MySQL)**
-- 🛠 I love building web apps and clean UIs
+- 🌱 I'm currently learning **Fullstack Development (Node.js, Express.js, Adonis.js, React, MySQL)**
+- 🛠 I love building web apps, clean UI, and backend APIs
 - 🔭 Currently working on: [Klinik Bersama Plus](https://github.com/fjrsdqq/Klinik-Bersama-Plus-Dashboard)
 - 📫 How to reach me: **fajarsidik9131@gmail.com**
 
@@ -20,9 +20,9 @@
 
 ### 💻 Tech Stack
 
-- 💡 **Languages**: HTML, CSS, JavaScript, SQL
+- 💡 **Languages**: HTML, CSS, JavaScript, SQL, TypeScript
 - 🌐 **Frontend**: React.js, TailwindCSS, Bootstrap, EJS
-- ⚙️ **Backend**: Node.js, Express.js
+- ⚙️ **Backend**: Node.js, Express.js, Adonis.js
 - 🛢 **Database**: MySQL, phpMyAdmin
 - 🧪 **Tools**: Git, GitHub, Postman, VS Code
 
@@ -32,9 +32,11 @@
 
 | Project | Deskripsi | Tech Stack | Link |
 |--------|-----------|------------|------|
-| 🩺 Klinik Bersama Plus | Web dashboard klinik dengan login, CRUD, grafik dan profil user | Node.js, EJS, MySQL, Chart.js | [Repo](https://github.com/fjrsdqq/Klinik-Bersama-Plus-Dashboard) |
+| 🩺 Klinik Bersama Plus | Web dashboard klinik dengan login, CRUD, grafik dan profil user | Node.js, Express.js, EJS, MySQL, Chart.js | [Repo](https://github.com/fjrsdqq/Klinik-Bersama-Plus-Dashboard) |
 | 💼 Portfolio Website | Website portfolio pribadi dengan animasi UI | HTML, CSS, JavaScript | [Repo](https://github.com/fjrsdqq/portfolio) |
 | ✅ Todo App | Aplikasi todo list simple dan responsive | React.js, TailwindCSS | [Repo](https://github.com/fjrsdqq/todo-app) |
+| 🌐 Express API Project | RESTful API project untuk manajemen data | Node.js, Express.js, MySQL | [Repo](https://github.com/fjrsdqq/express-api-project) |
+| ⚡ Adonis Dashboard | Dashboard admin dengan Adonis.js, autentikasi, dan CRUD | Adonis.js, MySQL, TailwindCSS | [Repo](https://github.com/fjrsdqq/adonis-dashboard) |
 
 ---
 
