@@ -52,23 +52,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjrsdqq&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Fajar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fjrsdqq&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" alt="Fajar's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrsdqq&layout=compact&theme=tokyonight&langs_count=8&hide=php,java" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrsdqq&layout=compact&theme=radical&langs_count=8&hide=php,java,css" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fjrsdqq&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fjrsdqq&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
