@@ -35,14 +35,23 @@
 
 ---
 
-## 📊 Aktivitas & Konsistensi
+## 🌐 Recent Dev Activity
+
+Saya aktif menulis kode hampir setiap hari — membangun fitur, memperbaiki bug, dan mengeksplorasi teknologi baru.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=vue&hide_border=true&fire=00FFA3&currStreakLabel=00FFA3" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=react-dark&hide_border=true&area=true" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fjrsdqq&theme=radical&row=1&column=6" width="100%" />
 </p>
 
-> 🔁 **Statistik ini diperbarui otomatis setiap ada aktivitas di repositori publik & privat** (pastikan email commit sesuai dengan akun GitHub).
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=react-dark&hide_border=true&area=true&custom_title=Weekly%20Coding%20Activity" height="220" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=radical&hide_border=true&fire=FF5733&currStreakNum=00FFA3&ring=00FFA3&currStreakLabel=FFFFFF" height="180" />
+</p>
+
+> 💡 Semua aktivitas di atas mencakup **kontribusi publik & privat** (pastikan email commit menggunakan email GitHub yang terverifikasi).
 
 ---
 
