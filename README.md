@@ -1,19 +1,24 @@
-<h1 align="center">👋 Hai, Saya Fajar Sidik</h1>
-<h3 align="center">💻 Mahasiswa Informatika | Fullstack Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Hai%2C+Saya+Fajar+Sidik;Fullstack+Developer+%7C+Mahasiswa+Informatika;Membangun+Aplikasi+Web+Modern" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjrsdqq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrsdqq&layout=compact&theme=radical&langs_count=6" width="48%" />
+  <samp>💡 Keep coding. Keep learning. Build with purpose.</samp>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fjrsdqq&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrsdqq&layout=compact&theme=vue&hide_border=true&langs_count=6" height="180" />
 </p>
 
 ---
 
 ## 📌 Tentang Saya
 
-- Mahasiswa Informatika yang bersemangat membangun aplikasi web modern.
-- Fokus pada pengembangan **fullstack**: frontend responsif dengan React dan backend handal berbasis Node.js & AdonisJS.
-- Tertarik pada clean code, UX/UI yang intuitif, dan arsitektur API yang scalable.
-- Aktif berkontribusi melalui proyek pribadi dan pembelajaran berkelanjutan.
+- 🎓 Mahasiswa Informatika yang bersemangat membangun aplikasi web modern.
+- ⚙️ Fokus pada pengembangan **fullstack**: frontend responsif dengan **React**, backend handal berbasis **Node.js & AdonisJS**.
+- 🧼 Tertarik pada **clean code**, **UX/UI intuitif**, dan **arsitektur API scalable**.
+- 🔁 Aktif berkontribusi melalui proyek pribadi dan pembelajaran berkelanjutan.
 
 ---
 
@@ -30,33 +35,39 @@
 
 ---
 
-## 📊 Aktivitas Terkini
+## 📊 Aktivitas & Konsistensi
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=radical&hide_border=true" width="50%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=react-dark&hide_border=true&area=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=vue&hide_border=true&fire=00FFA3&currStreakLabel=00FFA3" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=react-dark&hide_border=true&area=true" height="180" />
+</p>
+
+> 🔁 **Statistik ini diperbarui otomatis setiap ada aktivitas di repositori publik & privat** (pastikan email commit sesuai dengan akun GitHub).
+
+---
+
+## 📫 Kontak Saya
+
+<p align="center">
+  <a href="mailto:fajarsidik9131@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fajarsidik9131@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/fajar-sidik-141b46321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fjrsdqq">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fjrsdqq&label=Profile%20Views&color=00FFA3&style=flat-square" alt="views" />
 </p>
 
 ---
 
-## 📫 Kontak
-
 <p align="center">
-  <a href="mailto:fajarsidik9131@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fajarsidik9131@gmail.com-D14836?logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/fajar-sidik-141b46321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/fjrsdqq">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
+  <sub>Made with ❤️ and ☕ • Built for the future of the web</sub>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fjrsdqq&label=Profile%20Views&color=blue" alt="views" />
-</p>
-
-<h3 align="center">💡 Keep coding. Keep learning. Build with purpose.</h3>
