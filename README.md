@@ -1,82 +1,246 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Hai%2C+Saya+Fajar+Sidik;Fullstack+Developer+%7C+Mahasiswa+Informatika;Membangun+Aplikasi+Web+Modern" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <samp>💡 Keep coding. Keep learning. Build with purpose.</samp>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjrsdqq&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrsdqq&layout=compact&theme=vue&hide_border=true&langs_count=6" height="180" />
-</p>
-
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎨 HEADER — Animated gradient banner + typing effect                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <!-- Animated Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFA3,100:00D4AA&height=220&section=header&text=Fajar%20Sidik&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20•%20Informatika%20Student&descSize=18&descColor=B0FFD6&descAlignY=55&animation=fadeIn" width="100%" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%9A%80+Building+Modern+Web+Applications;%E2%9A%A1+React+%7C+TypeScript+%7C+Node.js+%7C+PHP" alt="Typing SVG" />
+  <br/>
+  <!-- Badges Row -->
+  <a href="https://github.com/fjrsdqq?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_Repos-9+-00FFA3?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fjrsdqq?tab=followers">
+    <img src="https://img.shields.io/github/followers/fjrsdqq?style=for-the-badge&logo=github&color=00FFA3&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=fjrsdqq&label=Profile+Views&color=00FFA3&style=for-the-badge&labelColor=0D1117" alt="views" />
+  <br/><br/>
+  <!-- Quote -->
+  <samp>
+    <b>「 Keep coding. Keep learning. Build with purpose. 」</b>
+  </samp>
+</div>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Tentang Saya
+```yaml
+name: Fajar Sidik
+role: Fullstack Developer
+education: Mahasiswa Informatika
+location: Indonesia 🇮🇩
+currently_learning: ["TypeScript", "Next.js", "AdonisJS"]
+interests: ["Clean Code", "Modern UI/UX", "Scalable APIs"]
+fun_fact: "Saya percaya bahwa kode yang baik adalah kode yang bisa dibaca seperti cerita"
+```
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrsdqq&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&langs_count=6" height="250" />
+- 🎓 &nbsp;Mahasiswa **Informatika** yang passionate membangun aplikasi web modern
+- ⚡ &nbsp;Fokus pada **fullstack development**: frontend responsif, backend handal
+- 🧩 &nbsp;Menyukai arsitektur **clean code** dan **API yang scalable**
+- 🎨 &nbsp;Tertarik pada **UI/UX intuitif** dan micro-interactions
+- 🔄 &nbsp;Aktif berkontribusi melalui proyek pribadi & pembelajaran berkelanjutan
+- 🌱 &nbsp;Sedang mendalami **TypeScript** dan **framework modern**
+<br clear="both"/>
 ---
-
-## 📌 Tentang Saya
-
-- 🎓 Mahasiswa Informatika yang bersemangat membangun aplikasi web modern.
-- ⚙️ Fokus pada pengembangan **fullstack**: frontend responsif dengan **React**, backend handal berbasis **Node.js & AdonisJS**.
-- 🧼 Tertarik pada **clean code**, **UX/UI intuitif**, dan **arsitektur API scalable**.
-- 🔁 Aktif berkontribusi melalui proyek pribadi dan pembelajaran berkelanjutan.
-
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🛠️ &nbsp;Tech Stack
+<table>
+  <tr>
+    <td align="center" width="140"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,java&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🔧 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite&theme=dark" />
+    </td>
+  </tr>
+</table>
 ---
-
-## 🚀 Proyek Unggulan
-
-| Nama Proyek | Deskripsi | Teknologi |
-|-------------|-----------|-----------|
-| **Klinik Bersama Plus** | Dashboard manajemen klinik dengan autentikasi, CRUD, dan visualisasi data | Node.js, Express, EJS, MySQL |
-| **Portfolio Website** | Situs portofolio pribadi yang responsif dan interaktif | HTML, CSS, JavaScript |
-| **Todo App** | Aplikasi to-do list sederhana namun fully responsive | React, Tailwind CSS |
-| **Adonis Dashboard** | Admin dashboard berbasis framework AdonisJS dengan sistem login & CRUD | AdonisJS, MySQL, Tailwind CSS |
-
-🔗 [Lihat semua proyek di GitHub →](https://github.com/fjrsdqq?tab=repositories)
-
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🚀 &nbsp;Proyek Unggulan
+<div align="center">
+<!-- Row 1 -->
+<a href="https://github.com/fjrsdqq/Blogsite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjrsdqq&repo=Blogsite&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=C9D1D9" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/fjrsdqq/Web-BAP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjrsdqq&repo=Web-BAP&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=C9D1D9" />
+</a>
+<!-- Row 2 -->
+<a href="https://github.com/fjrsdqq/Dashboard-Sembako">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjrsdqq&repo=Dashboard-Sembako&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=C9D1D9" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/fjrsdqq/Management-Toko-Netbeans">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fjrsdqq&repo=Management-Toko-Netbeans&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=C9D1D9" />
+</a>
+</div>
+<br/>
+<details>
+<summary><b>📂 &nbsp;Lihat Semua Proyek</b></summary>
+<br/>
+| # | Proyek | Deskripsi | Tech | Status | Link |
+|:-:|--------|-----------|------|:------:|:----:|
+| 1 | **Blogsite** | Platform blog modern dengan desain clean | `HTML` | 🟢 Live | [🔗](https://blogsite-tau-steel.vercel.app) |
+| 2 | **Web-BAP** | Aplikasi web fullstack berbasis TypeScript | `TypeScript` | 🟢 Live | [🔗](https://web-bpro.vercel.app) |
+| 3 | **Dashboard-Sembako** | Dashboard manajemen toko sembako | `PHP` | ✅ Done | [📁](https://github.com/fjrsdqq/Dashboard-Sembako) |
+| 4 | **Management-Toko** | Sistem manajemen toko desktop berbasis Java | `Java` | ✅ Done | [📁](https://github.com/fjrsdqq/Management-Toko-Netbeans) |
+| 5 | **Ajax & API** | Eksplorasi Ajax dan integrasi API | `JavaScript` | 📚 Study | [📁](https://github.com/fjrsdqq/AjaxandApi) |
+| 6 | **Papan Skor DOM** | Studi kasus manipulasi DOM interaktif | `HTML` `JS` | 📚 Study | [📁](https://github.com/fjrsdqq/Studi-KasusDOM-MembuatPapanSkor) |
+| 7 | **Pricing Table** | Responsive pricing table UI component | `CSS` | 📚 Study | [📁](https://github.com/fjrsdqq/Studi-Kasus-Responsive-Deisgn-Pricing-Table) |
+| 8 | **Museum Gallery** | Galeri museum dengan Bootstrap | `Bootstrap` | 📚 Study | [📁](https://github.com/fjrsdqq/Studi-Kasus-Bootstrap-Galeri-Museum-Arkeolog-Project) |
+| 9 | **Belajar NPM** | Fundamental Node.js & NPM | `Node.js` | 📚 Study | [📁](https://github.com/fjrsdqq/Belajar-NPM-Node) |
+</details>
 ---
-
-## 🌐 Recent Dev Activity
-
-Saya aktif menulis kode hampir setiap hari — membangun fitur, memperbaiki bug, dan mengeksplorasi teknologi baru.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fjrsdqq&theme=radical&row=1&column=6" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&theme=react-dark&hide_border=true&area=true&custom_title=Weekly%20Coding%20Activity" height="220" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fjrsdqq&theme=radical&hide_border=true&fire=FF5733&currStreakNum=00FFA3&ring=00FFA3&currStreakLabel=FFFFFF" height="180" />
-</p>
-
-> 💡 Semua aktivitas di atas mencakup **kontribusi publik & privat** (pastikan email commit menggunakan email GitHub yang terverifikasi).
-
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 📊 &nbsp;GitHub Analytics
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fjrsdqq&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=C9D1D9&include_all_commits=true&count_private=true&ring_color=00FFA3" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com?user=fjrsdqq&theme=react&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=FF6B35&currStreakNum=00FFA3&sideNums=C9D1D9&currStreakLabel=00FFA3&sideLabels=C9D1D9&dates=6E7681" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fjrsdqq&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00FFA3&line=00FFA3&point=FFFFFF&area=true&area_color=00FFA340&title_color=00FFA3" width="95%"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fjrsdqq&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
+</div>
 ---
-
-## 📫 Kontak Saya
-
-<p align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE ANIMATION                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🐍 &nbsp;Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjrsdqq/fjrsdqq/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fjrsdqq/fjrsdqq/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/fjrsdqq/fjrsdqq/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+> 💡 *Untuk mengaktifkan snake animation, tambahkan [GitHub Action workflow](#-cara-setup-snake-animation) di bawah.*
+---
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📈 RECENT ACTIVITY (via GitHub Actions)                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## ⚡ &nbsp;Aktivitas Terbaru
+<!--START_SECTION:activity-->
+1. 🚀 Pushed to [fjrsdqq/Blogsite](https://github.com/fjrsdqq/Blogsite) — *Platform blog modern*
+2. 🔨 Updated [fjrsdqq/Web-BAP](https://github.com/fjrsdqq/Web-BAP) — *Fullstack TypeScript app*
+3. 📦 Created [fjrsdqq/Dashboard-Sembako](https://github.com/fjrsdqq/Dashboard-Sembako) — *PHP Dashboard*
+4. ⚙️ Pushed to [fjrsdqq/Management-Toko-Netbeans](https://github.com/fjrsdqq/Management-Toko-Netbeans) — *Java Desktop App*
+<!--END_SECTION:activity-->
+> 📌 *Section ini bisa diupdate otomatis menggunakan [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme) action.*
+---
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📫 CONNECT                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 📫 &nbsp;Connect with Me
+<div align="center">
   <a href="mailto:fajarsidik9131@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fajarsidik9131@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Gmail-fajarsidik9131-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/fajar-sidik-141b46321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fajar_Sidik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
   <a href="https://github.com/fjrsdqq">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub-fjrsdqq-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fjrsdqq&label=Profile%20Views&color=00FFA3&style=flat-square" alt="views" />
-</p>
-
+</div>
 ---
-
-<p align="center">
-  <sub>Made with ❤️ and ☕ • Built for the future of the web</sub>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE SETUP GUIDE                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<details>
+<summary><b>🐍 Cara Setup Snake Animation</b></summary>
+<br/>
+Buat file `.github/workflows/snake.yml` di repo `fjrsdqq/fjrsdqq`:
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Setiap hari
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: fjrsdqq
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+Setelah workflow berjalan pertama kali, snake animation akan muncul secara otomatis! 🎉
+</details>
+<details>
+<summary><b>📊 Cara Setup Auto-Update Activity</b></summary>
+<br/>
+Buat file `.github/workflows/update-readme.yml`:
+```yaml
+name: Update README
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Setiap 30 menit
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+Action ini akan otomatis mengupdate section `<!--START_SECTION:activity-->` dengan aktivitas terbaru Anda.
+</details>
+---
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎬 FOOTER                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFA3,100:00D4AA&height=120&section=footer" width="100%" />
+  <br/>
+  <samp>
+    <b>Built with ❤️ and ☕ by Fajar Sidik</b>
+    <br/>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
+  </samp>
+</div>
